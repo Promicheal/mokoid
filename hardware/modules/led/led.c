@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-
+//添加的注视如何提交呢
 #define LOG_TAG "MokoidLedStub"
 
 #include <hardware/hardware.h>
